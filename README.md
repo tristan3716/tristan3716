@@ -1,5 +1,6 @@
-### 📫 How to reach me
-e-mail: tristan3716@gmail.com
+### 📫 Introduces
+- 컴퓨터공학전공
+- tristan3716@gmail.com
 
 ### ✨ Skills
 <p>
